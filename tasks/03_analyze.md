@@ -32,7 +32,7 @@ What's the average margin percentage across all clients?
 
 ## Where to Put Your Answers
 
-Create a file at `/answers/03_answer.txt` with all three answers.
+Create a file at `./answers/03_answer.txt` with all three answers.
 
 Please show your work — we want to see how you approached each question.
 
@@ -64,10 +64,10 @@ We're testing your problem-solving, not your knowledge of any specific tool.
 
 ## Getting Help
 
-- **Hint file**: `/hints/03_hint.md` has additional guidance
+- **Hint file**: `./hints/03_hint.md` has additional guidance
 - **AI tools**: Great for explaining formulas or checking your math
 - **Spreadsheets**: Totally valid — sometimes the familiar tool is the right tool
 
 ## When You're Done
 
-Move on to the final task at `/tasks/04_reflect.md`
+Move on to the final task at `./tasks/04_reflect.md`

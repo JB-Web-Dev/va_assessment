@@ -39,19 +39,19 @@ Open the first task file to begin:
 
 ## If You Get Stuck
 
-Each task has a hint file available in the `/hints/` folder. There's no penalty for using hints — they're there to help!
+Each task has a hint file available in the `./hints/` folder. There's no penalty for using hints — they're there to help!
 
-- Task 1 hint: `/hints/01_hint.md`
-- Task 2 hint: `/hints/02_hint.md`
-- Task 3 hint: `/hints/03_hint.md`
+- Task 1 hint: `./hints/01_hint.md`
+- Task 2 hint: `./hints/02_hint.md`
+- Task 3 hint: `./hints/03_hint.md`
 
 ## Where to Put Your Answers
 
-Save your answers in the `/answers/` folder:
-- Task 1: `/answers/01_answer.txt`
-- Task 2: `/answers/02_answer.txt`
-- Task 3: `/answers/03_answer.txt`
-- Task 4: `/answers/04_reflection.txt`
+Save your answers in the `./answers/` folder:
+- Task 1: `./answers/01_answer.txt`
+- Task 2: `./answers/02_answer.txt`
+- Task 3: `./answers/03_answer.txt`
+- Task 4: `./answers/04_reflection.txt`
 
 ## When You're Done
 

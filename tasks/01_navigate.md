@@ -18,7 +18,7 @@ Welcome to your first task! This might feel unfamiliar if you've never used a te
 
 ## Where to Put Your Answer
 
-Create a file at `/answers/01_answer.txt` with your answer to question 3.
+Create a file at `./answers/01_answer.txt` with your answer to question 3.
 
 For example, your answer file might just say:
 ```
@@ -32,10 +32,10 @@ If you're stuck, here are some options:
 - **Google it**: Try searching "how to change directory in terminal" or "how to display file contents in terminal"
 - **Ask an AI**: ChatGPT or Claude can explain terminal commands
 - **Use --help**: Most commands have a `--help` flag that explains how they work (e.g., `ls --help`)
-- **Check the hint**: There's a hint available at `/hints/01_hint.md` if you need it
+- **Check the hint**: There's a hint available at `./hints/01_hint.md` if you need it
 
 Remember: using these resources isn't cheating — it's exactly what we're testing. Real work involves looking things up!
 
 ## When You're Done
 
-Move on to Task 2 at `/tasks/02_explore.md`
+Move on to Task 2 at `./tasks/02_explore.md`

@@ -14,7 +14,7 @@ How many lines are in `clients.csv`? You can include or exclude the header row �
 
 ## Where to Put Your Answers
 
-Create a file at `/answers/02_answer.txt` with both answers.
+Create a file at `./answers/02_answer.txt` with both answers.
 
 For example:
 ```
@@ -29,10 +29,10 @@ Remember, you can use any resource:
 - **Google**: "how to show hidden files in terminal" or "count lines in file terminal"
 - **AI assistants**: ChatGPT, Claude, or others can walk you through it
 - **The --help flag**: Commands often have built-in documentation
-- **Hint file**: `/hints/02_hint.md` has more specific guidance if you're stuck
+- **Hint file**: `./hints/02_hint.md` has more specific guidance if you're stuck
 
 Don't worry about memorizing commands — real professionals look things up all the time.
 
 ## When You're Done
 
-Move on to Task 3 at `/tasks/03_analyze.md` — this is the main challenge!
+Move on to Task 3 at `./tasks/03_analyze.md` — this is the main challenge!

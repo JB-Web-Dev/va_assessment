@@ -20,7 +20,7 @@ There are no wrong answers here — we genuinely want to know about your experie
 
 ## Where to Put Your Reflection
 
-Create a file at `/answers/04_reflection.txt` with your responses.
+Create a file at `./answers/04_reflection.txt` with your responses.
 
 ## Finishing Up
 
